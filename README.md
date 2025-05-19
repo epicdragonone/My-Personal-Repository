@@ -1,3 +1,3 @@
 # My-Personal-Repository
 
-cool (but short) things to this
+cool (but short) things
